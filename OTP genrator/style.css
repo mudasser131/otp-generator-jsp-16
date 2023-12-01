@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+background-color: bisque;
+
+}
+
+
+#btn{
+    margin-left: 26rem;
+margin-top: 20rem;
+text-align: center;
+padding: 1rem 2rem;
+background-color: aqua;
+border-radius:.3rem ;
+cursor: pointer;
+}
+#otp{
+text-align: center;
+    margin-top: 10rem;
+font-size: 3rem;
+}
